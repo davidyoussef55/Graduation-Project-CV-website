@@ -1,0 +1,39 @@
+body {
+  background-image: url('contact.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: black;
+  
+}
+input {
+  width: 35%;
+ border: 2px solid red;
+  border-radius: 2px;
+}
+.radio {
+color:red;
+}
+p {
+ font-size: 20px;
+ color: white;
+ }
+
+h1
+{
+  background-color: #338AFF;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  color: white;
+  text-size: 20px;
+}
+
+select {
+  width: 20;
+  padding: 10px 12px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}

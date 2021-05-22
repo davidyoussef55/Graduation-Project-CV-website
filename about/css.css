@@ -1,0 +1,25 @@
+body {
+  background-image: url('lamb.jpeg');
+  text-align: left;
+  color: white;
+font-style: times new roman;
+}
+
+p {
+border: 5px solid red;
+text-size: large;
+border-radius: 20px;
+border: 2px solid powderblue;
+  padding: 20px;
+}
+
+h1 {
+
+    height:40px;
+    margin-right: 200px;
+    margin-left: 200px;
+    text-align: center;
+    border: 5px solid powderblue;
+    font-style: times new roman;
+    font-size: 30px;
+}
